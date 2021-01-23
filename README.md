@@ -6,7 +6,7 @@
 5.	Implementation of  Reliability Design problem.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Merge%20Sort.c">6.	Implementation of Merge Sort using divide and conquer.<br></a>
 7.	Implementation of OBST using dynamic programming.<br>
-8.	Implementation of Binary Search using divide and conquer.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Binary%20Search.c">8.	Implementation of Binary Search using divide and conquer.<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/LCS.c">9.	Implementation of LCS algorithm and print Longest common subsequence. <br></a>
 10.	Implement Knapsack Algorithm using Greedy approach.<br>
 11.	Implementation of All-pairs shortest path algorithms using dynamic programming.<br>
