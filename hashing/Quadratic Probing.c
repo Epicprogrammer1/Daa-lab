@@ -57,8 +57,21 @@ void display(){
         printf("%d ",table[i]);
 }
 void main(){
-    insert(1);
-    insert(2);
-    insert(21);
-    search(21);
+    int ch,x;
+    printf("\n1.hinsert\n2.display\n3.Search\n4.exit");
+    do{
+        printf("\nEnter Option: ");
+        scanf("%d",&ch);
+        switch(ch){
+            case 1: printf("Enter the element: ");scanf("%d",&x);insert(x);break;
+            case 2: printf("The Hashtable is: \n");display();break;
+            case 3: printf("Enter element to be searched");
+                    int key;
+                    scanf("%d",&key);
+                    int res=search(key);
+                    res!=-1?printf("It is present in hashtable at %d",key):printf("Element not present");break;
+            //case 3:printf("Enter the element to be searched: ");scanf("%d",&x);printf("%d",search(a,x,n)); 
+            case 4:return;break;
+        }
+    }while(ch!=3);
 }
