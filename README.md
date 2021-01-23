@@ -15,7 +15,7 @@
 14.	Implement connected components with appropriate graph traversal.<br>
 15.	Implementation of multi-stage graph using dynamic programming.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Heapsort.c">16.	Implementation of  Heap Sort.</a><br>
-17.	Implementation of  N-queens problem with back tracking.<br> 
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Nqueens.c">17.	Implementation of  N-queens problem with back tracking.<br> </a>
 18.	Implement depth first search (DFS) tree traversal.<br>
 19.	Implementation of Graph coloring problem with back tracking.<br> 
 20.	Implement Breadth first search (BFS) tree traversal.<br>
