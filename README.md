@@ -23,7 +23,7 @@
 22.	Implement inorder-order traversal of binary tree without recursion.<br>
 23.	Implementation of TSP by branch and bound.<br>
 24.	Implementation of  Hashing.<br>
-25.	Implementation of 0/1 knapsack by branch and bound.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/01%20knapsack.c">25.	Implementation of 0/1 knapsack by branch and bound.<br></a>
 26.	Implement post-order traversal of binary tree without recursion.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.<br></a>
 28.	Implement pre-order traversal of binary tree without recursion.<br>
