@@ -11,7 +11,7 @@
 10.	Implement Knapsack Algorithm using Greedy approach.<br>
 11.	Implementation of All-pairs shortest path algorithms using dynamic programming.<br>
 12.	Implementation of  optimal merge patterns.	<br>
-13.	Implementation of 0/1 Knapsack algorithm using dynamic programming.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/01%20knapsack.c">13.	Implementation of 0/1 Knapsack algorithm using dynamic programming.<br></a>
 14.	Implement connected components with appropriate graph traversal.<br>
 15.	Implementation of multi-stage graph using dynamic programming.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Heapsort.c">16.	Implementation of  Heap Sort.</a><br>
@@ -23,7 +23,7 @@
 22.	Implement inorder-order traversal of binary tree without recursion.<br>
 23.	Implementation of TSP by branch and bound.<br>
 24.	Implementation of  Hashing.<br>
-<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/01%20knapsack.c">25.	Implementation of 0/1 knapsack by branch and bound.<br></a>
+25.	Implementation of 0/1 knapsack by branch and bound.<br>
 26.	Implement post-order traversal of binary tree without recursion.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.<br></a>
 28.	Implement pre-order traversal of binary tree without recursion.<br>
