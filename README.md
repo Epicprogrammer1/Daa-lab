@@ -10,7 +10,7 @@
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/LCS.c">9.	Implementation of LCS algorithm and print Longest common subsequence. <br></a>
 10.	Implement Knapsack Algorithm using Greedy approach.<br>
 11.	Implementation of All-pairs shortest path algorithms using dynamic programming.<br>
-12.	Implementation of  optimal merge patterns.	<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Optimal%20Merge%20Pattern.c">12.	Implementation of  optimal merge patterns.	<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/01%20knapsack.c">13.	Implementation of 0/1 Knapsack algorithm using dynamic programming.<br></a>
 14.	Implement connected components with appropriate graph traversal.<br>
 15.	Implementation of multi-stage graph using dynamic programming.<br>
