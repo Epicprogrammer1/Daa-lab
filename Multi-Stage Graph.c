@@ -30,9 +30,13 @@ int main()
 	            graph[i][j]=INT_MAX;
 	    }
 	    printf("\n");
+	printf("Enter Adjacency matrix is:\n");
 	for(i=0;i<n-1;i++){
 	    for(j=0;j<n;j++){
-	        printf("%3d",graph[i][j]);
+		if(graph[i][j]!=INT_MAX)
+	        	printf("%3d  ",graph[i][j]);
+		else
+			printf("INF  ",graph[i][j]);
 	    }
 	    printf("\n");
 	}
