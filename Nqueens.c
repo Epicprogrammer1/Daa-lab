@@ -1,8 +1,10 @@
 
 #include <stdbool.h> 
 #include <stdio.h> 
-#define N 4
-void printSolution(int board[N][N]) 
+#define MAX 100
+int board[MAX][MAX];
+int N;
+void printSolution() 
 { 
 	for (int i = 0; i < N; i++) { 
 		for (int j = 0; j < N; j++) 
@@ -10,7 +12,7 @@ void printSolution(int board[N][N])
 		printf("\n"); 
 	} 
 } 
-bool isSafe(int board[N][N], int row, int col) 
+bool isSafe(int row, int col) 
 { 
 	int i, j; 
 	for (i = 0; i < col; i++) 
@@ -25,14 +27,14 @@ bool isSafe(int board[N][N], int row, int col)
 
 	return true; 
 } 
-bool solveNQUtil(int board[N][N], int col) 
+bool solveNQUtil(int col) 
 { 
 	if (col >= N) 
 		return true; 
 	for (int i = 0; i < N; i++) { 
-		if (isSafe(board, i, col)) { 
+		if (isSafe(i, col)) { 
 			board[i][col] = 1; 
-			if (solveNQUtil(board, col + 1)) 
+			if (solveNQUtil(col + 1)) 
 				return true; 
 			board[i][col] = 0; // BACKTRACK 
 		} 
@@ -42,23 +44,25 @@ bool solveNQUtil(int board[N][N], int col)
 
 bool solveNQ() 
 { 
-	int i,j,board[N][N];
+	int i,j;
 	for(i=0;i<N;i++){
 	    for(j=0;j<N;j++){
 	        board[i][j]=0;
 	    }
 	}
 
-	if (solveNQUtil(board, 0) == false) { 
+	if (solveNQUtil(0) == false) { 
 		printf("Solution does not exist"); 
 		return false; 
 	} 
-    printf("The solution is : \n")
+    printf("The solution is : \n");
 	printSolution(board); 
 	return true; 
 } 
 int main() 
 {   
+    printf("enter board size: ");
+    scanf("%d",&N);
 	solveNQ(); 
 	return 0; 
 }
