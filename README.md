@@ -13,7 +13,7 @@
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Optimal%20Merge%20Pattern.c">12.	Implementation of  optimal merge patterns.	<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/01%20knapsack.c">13.	Implementation of 0/1 Knapsack algorithm using dynamic programming.<br></a>
 14.	Implement connected components with appropriate graph traversal.<br>
-15.	Implementation of multi-stage graph using dynamic programming.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Multi-Stage%20Graph.c">15.	Implementation of multi-stage graph using dynamic programming.<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Heapsort.c">16.	Implementation of  Heap Sort.</a><br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Nqueens.c">17.	Implementation of  N-queens problem with back tracking.<br> </a>
 18.	Implement depth first search (DFS) tree traversal.<br>
