@@ -16,16 +16,16 @@
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Multi-Stage%20Graph.c">15.	Implementation of multi-stage graph using dynamic programming.<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Heapsort.c">16.	Implementation of  Heap Sort.</a><br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Nqueens.c">17.	Implementation of  N-queens problem with back tracking.<br> </a>
-<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/DFS.c">18.	Implement depth first search (DFS) tree traversal.<br></a>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/DFS.c">18.	Implement depth first search (DFS) tree traversal.<B>Adjacency Matrix<b<br></a>
 19.	Implementation of Graph coloring problem with back tracking.<br> 
 20.	Implement Breadth first search (BFS) tree traversal.<br>
 21.	Implementation of Hamiltonian cycle using backtracking.<br>
 22.	Implement inorder-order traversal of binary tree without recursion.<br>
 23.	Implementation of TSP by branch and bound.<br>
-<a href="https://github.com/Epicprogrammer1/Daa-lab/tree/main/hashing">24.	Implementation of  Hashing.<br></a>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/tree/main/hashing">24.	Implementation of  Hashing.</a><b>Linear probing, hash chaining , Quadratic probing</b><br>
 25.	Implementation of 0/1 knapsack by branch and bound.<br>
 26.	Implement post-order traversal of binary tree without recursion.<br>
-<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.<br></a>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.<B>Adjacency Matrix<b><br></a>
 28.	Implement pre-order traversal of binary tree without recursion.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Kruskal's.c">29.	Implement Kruskal’s spanning tree algorithm.<br></a>
 30.	Implementation  of  optimal storage on tapes.<br>
