@@ -1,7 +1,7 @@
 # Daa-lab
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Matrix%20chain%20multiplication.c">1.	Implementation of Matrix –chain multiplication algorithm with dynamic programming.</a><br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Quicksort%20D%26C.c">2.	Implementation of Quick Sort using divide and conquer.<br></a>
-3.	Implementation of  TSP using dynamic programming.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/TSP(dynamic%20programming).c">3.	Implementation of  TSP using dynamic programming.<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/MinMax%20using%20Divide%20and%20Conquer.c">4.	Implementation of  Min-Max using divide and conquer, <br></a>
 5.	Implementation of  Reliability Design problem.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Merge%20Sort.c">6.	Implementation of Merge Sort using divide and conquer.<br></a>
