@@ -8,7 +8,7 @@
 7.	Implementation of OBST using dynamic programming.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Binary%20Search.c">8.	Implementation of Binary Search using divide and conquer.<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/LCS.c">9.	Implementation of LCS algorithm and print Longest common subsequence. <br></a>
-10.	Implement Knapsack Algorithm using Greedy approach.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Fractional%20Knapsack.c">10.	Implement Knapsack Algorithm using Greedy approach.<br></a>
 11.	Implementation of All-pairs shortest path algorithms using dynamic programming.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Optimal%20Merge%20Pattern.c">12.	Implementation of  optimal merge patterns.	<br></a>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/01%20knapsack.c">13.	Implementation of 0/1 Knapsack algorithm using dynamic programming.<br></a>
