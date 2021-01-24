@@ -28,6 +28,6 @@
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.</a><B>  (Using Adjacency Matrix)</b><br>
 28.	Implement pre-order traversal of binary tree without recursion.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Kruskal's.c">29.	Implement Kruskal’s spanning tree algorithm.<br></a>
-30.	Implementation  of  optimal storage on tapes.<br>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/optimal%20storage(Multiple%20tapes).c"><b>30.	Implementation  of  optimal storage on tapes.<br></a><b>(Multiple tapes)</b>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Prims.c">31.	Implement Prim’s spanning tree algorithms.<br></a>
 32.	Implement a program to find an in-order successor and predecessor of specified node in a tree. <br>
