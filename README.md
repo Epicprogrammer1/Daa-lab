@@ -25,7 +25,7 @@
 <a href="https://github.com/Epicprogrammer1/Daa-lab/tree/main/hashing">24.	Implementation of  Hashing.</a><b>Linear probing, hash chaining , Quadratic probing</b><br>
 25.	Implementation of 0/1 knapsack by branch and bound.<br>
 26.	Implement post-order traversal of binary tree without recursion.<br>
-<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.<B>Adjacency Matrix<b><br></a>
+<a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/dijktras.c">27.	Implement Dijkstra’s single source shortest path algorithm.<B>Adjacency Matrix</b><br></a>
 28.	Implement pre-order traversal of binary tree without recursion.<br>
 <a href="https://github.com/Epicprogrammer1/Daa-lab/blob/main/Kruskal's.c">29.	Implement Kruskal’s spanning tree algorithm.<br></a>
 30.	Implementation  of  optimal storage on tapes.<br>
